@@ -1,6 +1,6 @@
 # :hamburger: Burguer
 
-![Badge Andamento](http://img.shields.io/static/v1?label=EM&message=ANDAMENTO&color=RED&style=for-the-badge)
+![Badge Andamento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge)
 
 > Você pode clonar esse repositório em sua máquina
 ```
